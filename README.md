@@ -1,5 +1,7 @@
 # Click Counter
 
+![Aperçu de Click Counter](./CounterImage.jpeg)
+
 Une petite application web qui permet d'incrémenter et de décrémenter un compteur en cliquant sur des boutons.
 
 ## Démo
